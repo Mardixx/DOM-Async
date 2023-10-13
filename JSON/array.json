@@ -1,0 +1,21 @@
+[
+    {
+    "name": "kimi",
+    "age": 18,
+    "consoles": 4,
+    "games": "too much"
+    },
+    {
+    "name": "nico",
+    "age": 22,
+    "consoles": 2,
+    "games": "too much"
+    },
+    {
+    "name": "maxence",
+    "age": 25,
+    "consoles": "unknown",
+    "games": "too much"
+    }
+
+]
